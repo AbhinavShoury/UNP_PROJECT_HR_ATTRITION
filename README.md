@@ -1,8 +1,9 @@
 # UNP_PROJECT_POWERBI_HR_ATTRITION 
-Completed this project as a part of my BI with Power BI Internship with United Network Of Proffessionals (UNP).
+Completed this project as a part of my BI with PowerBI with United Network of Professionals [UNP]
 
-Key highlights:
+Key Insights:
 
-1.Contributed to the development of intricate KPIs and dynamic, Power BI Interfaces. 2.Collabarated with Stakeholders to Understand their requirements and translate them into effective Power BI solutions. 3.Ardently involved in creating data model, implemented data transformation and calculations using DAX functions for accurate analysis and reporting.
-
-PDF file link: https://drive.google.com/file/d/1TMmwPLAZlCgv3HYMU634SN6ZH9pbmDo5/view?usp=drive_link
+Contributed to the development of KPI's and dynamic, interactive Power BI interfaces.
+Collaborated in understanding the requirements, what all can be done for better understanding of the data.
+I was involved in Exploring the Data, Identifying Risk Factors, Visualizing Insights with accurate analysis and reporting.
+PBIX link: https://drive.google.com/file/d/1D_-dGdqcf1mKQwh7fzHYKQmy5qCGwGXI/view?usp=sharing PDF link: https://drive.google.com/file/d/15NOvR4KhmrL2u2sv1agB1vXgg7kGUAr1/view?usp=sharing PPT link: https://drive.google.com/file/d/1SkjhrjguZiRgU6j5RCBn3i9xCTLunTrR/view?usp=sharing
